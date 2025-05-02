@@ -1,4 +1,4 @@
-// store.ts
+
 import { configureStore } from '@reduxjs/toolkit';
 import uiReducer from './uiSlice'
 
